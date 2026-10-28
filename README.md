@@ -5,4 +5,4 @@ It does this by allowing the target margin of error to be set for each stage and
 
 ⚠️ **THIS PROJECT IS IN A VERY EARLY STAGE. USE WITH CAUTION!**
 
-Currently, it exists only as a functional minimum viable product in the `mvp` branch.
+Currently, it exists only as a functional minimum viable product.
